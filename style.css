@@ -1,0 +1,25 @@
+body{
+  margin: auto;
+  padding: auto;
+}
+img{
+  width: 1500px !important;
+  height: 1000px !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  z-index: 1;
+}
+div.content{
+  background-color: white;
+  background-repeat: no-repeat;
+  width: 700px;
+  position: absolute;
+  z-index: 2;
+  float: right;
+  text-align: right;
+  font-size: 13px;
+  font-weight: bold;
+  right: 5px;
+  top: 5px;
+}
